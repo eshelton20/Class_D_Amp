@@ -121,13 +121,28 @@ Through this project, I gained practical experience with:
 
 ## Bill of Materials
 
-Document the major components and materials used for the project.
-
-| Item | Quantity | Estimated Cost | Link |
+| Item | Quantity | Cost | Link |
 |---|---:|---:|---|
-| Component | 1 | $0.00 | Link |
+| Custom PCB (JLCPCB) | 1 | $65.26 | [JLCPCB](https://jlcpcb.com/) |
+| 12 V DC Power Supply | 1 | $9.97 | [Amazon](https://www.amazon.com/dp/B07VQGHSWY) |
+| XL5430 Dual-Output DC-DC Converter | 1 | $9.99 | [Amazon](https://www.amazon.com/dp/B0FFSHCGSX) |
+| 10 kΩ Linear Potentiometers | 3 | $9.99 | [Amazon](https://www.amazon.com/dp/B082FCRQS2) |
+| 3.5 mm Audio Jacks | 2 | $6.19 | [Amazon](https://www.amazon.com/dp/B07KY7XX34) |
+| Resistors | Various | Already Owned | — |
+| Capacitors | Various | Already Owned | — |
+| Op-Amps | Various | Already Owned | — |
+| Comparators | Various | Already Owned | — |
+| Arduino Nano | 1 | Already Owned | — |
+| MOSFETs | Various | Already Owned | — |
+| Power Switch | 1 | Already Owned | — |
+| OLED Display | 1 | Already Owned | — |
+| 3D Printing Filament | — | Already Owned | — |
+| Hardware / Fasteners | Various | Already Owned | — |
+| Wire | Various | Already Owned | — |
 
-**Estimated Total Cost:** $0.00
+**Total Out-of-Pocket Project Cost:** $101.40
+
+Many components were already available from previous coursework and personal projects, so the listed project cost reflects only items purchased specifically for this build.
 
 ## Project Timeline
 

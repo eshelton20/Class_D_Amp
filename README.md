@@ -164,7 +164,7 @@ Many components were already available from previous coursework and personal pro
 
 ### PCB Files
 
-- [PCB Gerber Manufacturing Files](Gerber/Gerber_Audio_System_Joined_PCB_Audio_System_Joined_Y2/)
+- [PCB Gerber Manufacturing Files](Gerber/Gerber_Audio_System_Joined_PCB_Audio_System_Joined_Y2.zip)
 
 ### Enclosure Files
 

@@ -162,25 +162,13 @@ Many components were already available from previous coursework and personal pro
 
 ## Project Files
 
-Organize and document important project files in this repository. Depending on the project, this may include:
+### PCB Files
 
-- Source code
-- KiCad files
-- Schematics
-- PCB layouts
-- CAD files
-- Datasheets
-- Test results
-- Documentation
+- [PCB Gerber Manufacturing Files](Gerber/Class_D_Amplifier_Gerbers.zip)
 
-## Useful Links
+### Enclosure Files
 
-Add any references, datasheets, documentation, tutorials, or other resources relevant to the project.
+- [Enclosure Top STL](STL/Home_Audio_Enclosure_top.stl)
+- [Enclosure Bottom STL](STL/Home_Audio_Enclosure_bottom.stl)
 
-## Project Image
 
-Replace the `hero.png` file in the root of this repository with an image representing your project.
-
-**Keep the filename as `hero.png`.**
-
-This image is used as the project cover image on the AMP Lab website.

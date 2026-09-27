@@ -1,22 +1,19 @@
 # Project Name
 
-> Replace this title with the name of your project.
+> Class D Amplifier Permanent Housing
 
 ## Project Owner
 
-**Name:** Your Name  
-**Virginia Tech Email:** yourpid@vt.edu
+**Name:** Evan Shelton  
+**Virginia Tech Email:** evans06@vt.edu
 
 ## Project Overview
 
-Provide a clear description of what you are building and the overall goal of the project.
-
-Include enough detail for someone unfamiliar with the project to understand what it does and why you are building it.
+The goal of this project is to transition a Class D Amplifier build in Integrated Design Project (ECE 2804) from a sporadic design that crosses multiple breadbaords, into a sleek, small, all in one housing. In this project, I will use PCB design to make a permanent board to house all the electronics and wiring in one place, I will design and 3D print an enclosure to put the board inside of and attach the potentiometers and OLED display to, and I will wire a power line input and power switch for convientent operation.
 
 ## What I Hope to Learn
 
-Describe the technical skills, concepts, or experience you hope to gain from completing this project.
-
+This project will act as an educational aid to help teach me about PCB board design, heighten my soldering components to a board skills, and CAD design skils.
 ## Design and Implementation
 
 Document the design of your project as it develops.
